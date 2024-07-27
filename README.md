@@ -1,12 +1,6 @@
-# JobMatch AI 👔
+# JobMatch AI 
 
 **JobMatch AI** is a web application that evaluates the quality of resumes using an NLP model. Deployed with Flask, it allows users to upload their resumes and receive feedback on their effectiveness.
-
-## Features
-
-- **Resume Upload:** Users can upload their resumes in DOCX or PDF format.
-- **Resume Analysis:** The system analyzes the uploaded resume to provide a quality score based on various criteria.
-- **Feedback Report:** Users receive feedback on their resume's content and formatting.
 
 ## Requirements
 
@@ -65,6 +59,11 @@ Create a virtual environment and install the required libraries using `requireme
 
    Open your web browser and navigate to `http://127.0.0.1:5000`.
 
+![Description of Image](https://github.com/kushalgupta1203/JobMatch-AI/blob/main/pictures/1.png)
+![Description of Image](https://github.com/kushalgupta1203/JobMatch-AI/blob/main/pictures/2.png)
+![Description of Image](https://github.com/kushalgupta1203/JobMatch-AI/blob/main/pictures/3.png)
+![Description of Image](https://github.com/kushalgupta1203/JobMatch-AI/blob/main/pictures/4.png)
+
 ## Dependencies
 
 - **Flask==2.3.2**: A lightweight WSGI web application framework.
@@ -77,9 +76,9 @@ Create a virtual environment and install the required libraries using `requireme
 1. **Upload your resume:** Choose a DOCX or PDF file using the upload button on the web interface.
 2. **Receive feedback:** After uploading, the system evaluates your resume and provides a quality score along with feedback.
 
-## License
+## Features
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+- **Resume Upload:** Users can upload their resumes in DOCX or PDF format.
+- **Resume Analysis:** The system analyzes the uploaded resume to provide a quality score based on various criteria.
+- **Feedback Report:** Users receive feedback on their resume's content and formatting.
 
-You can copy and paste this code into a `README.md` file in your project directory.
