@@ -81,4 +81,3 @@ Create a virtual environment and install the required libraries using `requireme
 - **Resume Upload:** Users can upload their resumes in DOCX or PDF format.
 - **Resume Analysis:** The system analyzes the uploaded resume to provide a quality score based on various criteria.
 - **Feedback Report:** Users receive feedback on their resume's content and formatting.
-
