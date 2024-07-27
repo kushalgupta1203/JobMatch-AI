@@ -60,8 +60,11 @@ Create a virtual environment and install the required libraries using `requireme
    Open your web browser and navigate to `http://127.0.0.1:5000`.
 
 ![Description of Image](https://github.com/kushalgupta1203/JobMatch-AI/blob/main/pictures/1.png)
+
 ![Description of Image](https://github.com/kushalgupta1203/JobMatch-AI/blob/main/pictures/2.png)
+
 ![Description of Image](https://github.com/kushalgupta1203/JobMatch-AI/blob/main/pictures/3.png)
+
 ![Description of Image](https://github.com/kushalgupta1203/JobMatch-AI/blob/main/pictures/4.png)
 
 ## Dependencies
